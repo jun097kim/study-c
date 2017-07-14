@@ -33,5 +33,20 @@
     <ClCompile Include="pointer_type.c">
       <Filter>소스 파일\Unit 34</Filter>
     </ClCompile>
+    <ClCompile Include="void_pointer.c">
+      <Filter>소스 파일\Unit 34</Filter>
+    </ClCompile>
+    <ClCompile Include="double_pointer.c">
+      <Filter>소스 파일\Unit 34</Filter>
+    </ClCompile>
+    <ClCompile Include="invalid_pointer.c">
+      <Filter>소스 파일\Unit 34</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_pointer.c">
+      <Filter>소스 파일\Unit 34</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_pointer.c">
+      <Filter>소스 파일\Unit 34</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
