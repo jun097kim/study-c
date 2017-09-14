@@ -51,5 +51,17 @@
     <ClCompile Include="judge_pointer.c">
       <Filter>소스 파일\Unit 34</Filter>
     </ClCompile>
+    <ClCompile Include="memory_alloc.c">
+      <Filter>소스 파일\Unit 35</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_dereference.c">
+      <Filter>소스 파일\Unit 35</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_set.c">
+      <Filter>소스 파일\Unit 35</Filter>
+    </ClCompile>
+    <ClCompile Include="null_pointer.c">
+      <Filter>소스 파일\Unit 35</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
