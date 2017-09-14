@@ -63,5 +63,11 @@
     <ClCompile Include="null_pointer.c">
       <Filter>소스 파일\Unit 35</Filter>
     </ClCompile>
+    <ClCompile Include="practice_memory_alloc.c">
+      <Filter>소스 파일\Unit 35</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_add_two_integer.c">
+      <Filter>소스 파일\Unit 35</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
