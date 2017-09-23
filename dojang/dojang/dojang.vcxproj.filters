@@ -19,6 +19,12 @@
     <Filter Include="소스 파일\Unit 35">
       <UniqueIdentifier>{03be0a1c-9b3b-456e-ab76-9d41d82284af}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 36">
+      <UniqueIdentifier>{0c039916-9418-4ef9-9528-55181e8db2f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Unit 23">
+      <UniqueIdentifier>{87e1b5d7-047d-4bc5-bc84-68b1247f6a71}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -68,6 +74,75 @@
     </ClCompile>
     <ClCompile Include="judge_add_two_integer.c">
       <Filter>소스 파일\Unit 35</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_to_array.c">
+      <Filter>소스 파일\Unit 36</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_average_of_scores.c">
+      <Filter>소스 파일\Unit 36</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_convert_binary_to_decimal.c">
+      <Filter>소스 파일\Unit 36</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_and_or_xor_operator.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_not_operator.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_shift_operator.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_assgin.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_bitwise_logical_operator.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_bitwise_shift_operator.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_shift_overflow.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="convert_decimal_binary.c">
+      <Filter>소스 파일\Unit 36</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_smallest_number.c">
+      <Filter>소스 파일\Unit 36</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_bitwise_logical_operator.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_bitwise_shift_operator.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_shift_power_of_two.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_right_shift_signed_unsigned.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_right_shift_signed.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_left_shift_signed.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_flag_on.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_flag_off.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="bitwise_flag_toggle.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_bitwise_flag.c">
+      <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_bitwise_flag.c">
+      <Filter>소스 파일\Unit 23</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
