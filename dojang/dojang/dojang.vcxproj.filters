@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Unit 23">
       <UniqueIdentifier>{87e1b5d7-047d-4bc5-bc84-68b1247f6a71}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 6">
+      <UniqueIdentifier>{a957a217-e582-4eef-ad33-f84e259a6d39}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -143,6 +146,9 @@
     </ClCompile>
     <ClCompile Include="judge_bitwise_flag.c">
       <Filter>소스 파일\Unit 23</Filter>
+    </ClCompile>
+    <ClCompile Include="integer.c">
+      <Filter>소스 파일\Unit 6</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
