@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Unit 6">
       <UniqueIdentifier>{a957a217-e582-4eef-ad33-f84e259a6d39}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 37">
+      <UniqueIdentifier>{89e89279-0afb-4d77-b2b0-f91c34d7a332}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -149,6 +152,39 @@
     </ClCompile>
     <ClCompile Include="integer.c">
       <Filter>소스 파일\Unit 6</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_init.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_assign.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_invaild_index.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_size.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_for.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dimensional_array_for_reverse.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_to_two_dimensional_array.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_principal_diagonal_of_matrix.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_to_three_dimensional_array.c">
+      <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_transpose_of_matrix.c">
+      <Filter>소스 파일\Unit 37</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
