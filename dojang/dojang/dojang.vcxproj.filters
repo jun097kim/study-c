@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Unit 37">
       <UniqueIdentifier>{89e89279-0afb-4d77-b2b0-f91c34d7a332}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 38">
+      <UniqueIdentifier>{23895d39-f231-4791-b575-a4c13349d63b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -185,6 +188,24 @@
     </ClCompile>
     <ClCompile Include="judge_transpose_of_matrix.c">
       <Filter>소스 파일\Unit 37</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_length_array.c">
+      <Filter>소스 파일\Unit 38</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_like_array.c">
+      <Filter>소스 파일\Unit 38</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_scanf_like_array.c">
+      <Filter>소스 파일\Unit 38</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_like_two_dimensional_array.c">
+      <Filter>소스 파일\Unit 38</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_scanf_like_two_dimensional_array.c">
+      <Filter>소스 파일\Unit 38</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_pointer_like_three_dimensional_array.c">
+      <Filter>소스 파일\Unit 38</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
