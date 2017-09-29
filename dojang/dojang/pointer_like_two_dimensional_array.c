@@ -5,7 +5,7 @@ int main() {
 	// 행의 포인터가 들어갈 공간 메모리 할당
 	int **m = malloc(sizeof(int *) * 3);
 
-	// 열의 포인터가 들어갈 공간 메모리 할당
+	// 열 공간 메모리 할당
 	for (int i = 0; i < 3; i++) {
 		m[i] = malloc(sizeof(int) * 4);
 	}
@@ -18,7 +18,7 @@ int main() {
 	printf("%d\n", m[2][0]);
 	printf("%d\n", m[2][3]);
 
-	// 열의 포인터가 들어간 공간 메모리 해제
+	// 열 공간 메모리 해제
 	for (int i = 0; i < 3; i++) {
 		free(m[i]);
 	}

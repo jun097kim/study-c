@@ -207,5 +207,11 @@
     <ClCompile Include="practice_pointer_like_three_dimensional_array.c">
       <Filter>소스 파일\Unit 38</Filter>
     </ClCompile>
+    <ClCompile Include="judge_identity_matrix.c">
+      <Filter>소스 파일\Unit 38</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_minesweeper.c">
+      <Filter>소스 파일\Unit 38</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
