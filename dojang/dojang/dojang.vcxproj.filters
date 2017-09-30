@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\Unit 38">
       <UniqueIdentifier>{23895d39-f231-4791-b575-a4c13349d63b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 39">
+      <UniqueIdentifier>{cfabd7f1-003d-49a8-9af0-ce622eb803ac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -212,6 +215,39 @@
     </ClCompile>
     <ClCompile Include="judge_minesweeper.c">
       <Filter>소스 파일\Unit 38</Filter>
+    </ClCompile>
+    <ClCompile Include="string_pointer.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="string_pointer_element.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="string_pointer_element_assign_error.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="string_array.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="string_array_assign_error.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="string_array_omit_size.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="string_array_element.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="string_array_element_assign.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_string.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_string_array_element.c">
+      <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_string.c">
+      <Filter>소스 파일\Unit 39</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
