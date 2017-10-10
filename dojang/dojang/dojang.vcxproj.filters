@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\Unit 39">
       <UniqueIdentifier>{cfabd7f1-003d-49a8-9af0-ce622eb803ac}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 40">
+      <UniqueIdentifier>{00ad9be5-1c0d-43cc-a233-2f3747c319a7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -248,6 +251,27 @@
     </ClCompile>
     <ClCompile Include="judge_string.c">
       <Filter>소스 파일\Unit 39</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_string_array.c">
+      <Filter>소스 파일\Unit 40</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_string_with_space.c">
+      <Filter>소스 파일\Unit 40</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_string_pointer_error.c">
+      <Filter>소스 파일\Unit 40</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_string_pointer_memory.c">
+      <Filter>소스 파일\Unit 40</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_two_string_array.c">
+      <Filter>소스 파일\Unit 40</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_scanf_string_array.c">
+      <Filter>소스 파일\Unit 40</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_scanf_four_array.c">
+      <Filter>소스 파일\Unit 40</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
