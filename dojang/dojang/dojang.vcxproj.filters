@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\Unit 40">
       <UniqueIdentifier>{00ad9be5-1c0d-43cc-a233-2f3747c319a7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 48">
+      <UniqueIdentifier>{a32e8707-b2db-4921-9172-db4bafb75372}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -272,6 +275,39 @@
     </ClCompile>
     <ClCompile Include="judge_scanf_four_array.c">
       <Filter>소스 파일\Unit 40</Filter>
+    </ClCompile>
+    <ClCompile Include="struct.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_variable.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_init.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef_struct.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="anonymous_struct.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_typedef_struct.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_anonymous_struct.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_declare_struct_dashboard.c">
+      <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_define_struct_dashboard.c">
+      <Filter>소스 파일\Unit 48</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
