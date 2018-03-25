@@ -43,6 +43,12 @@
     <Filter Include="소스 파일\Unit 48">
       <UniqueIdentifier>{a32e8707-b2db-4921-9172-db4bafb75372}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 49">
+      <UniqueIdentifier>{47265fbc-16e1-4caa-a28f-ca4f1b35ab64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Unit 50">
+      <UniqueIdentifier>{a09c8c43-4e4a-4c89-9750-4d95c687bebc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -308,6 +314,48 @@
     </ClCompile>
     <ClCompile Include="judge_define_struct_dashboard.c">
       <Filter>소스 파일\Unit 48</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_alloc_memory.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_member_dereference.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef_struct_alloc_memory.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="anonymous_struct_alloc_memory.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_to_struct.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct_alloc_memory.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_typedef_struct_alloc_memory.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_pointer_to_struct.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_alloc_memory.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_pointer_to_struct.c">
+      <Filter>소스 파일\Unit 49</Filter>
+    </ClCompile>
+    <ClCompile Include="two_point.c">
+      <Filter>소스 파일\Unit 50</Filter>
+    </ClCompile>
+    <ClCompile Include="two_point_distance.c">
+      <Filter>소스 파일\Unit 50</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_area_of_rectangle.c">
+      <Filter>소스 파일\Unit 50</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_two_point_distance.c">
+      <Filter>소스 파일\Unit 50</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
