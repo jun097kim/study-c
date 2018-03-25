@@ -49,6 +49,12 @@
     <Filter Include="소스 파일\Unit 50">
       <UniqueIdentifier>{a09c8c43-4e4a-4c89-9750-4d95c687bebc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 51">
+      <UniqueIdentifier>{8ed926f7-a219-40e9-b390-e40d8cca995f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Unit 52">
+      <UniqueIdentifier>{6e094b55-c4c4-48a5-b73e-dad5c3b4224a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -356,6 +362,54 @@
     </ClCompile>
     <ClCompile Include="judge_two_point_distance.c">
       <Filter>소스 파일\Unit 50</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_sizeof.c">
+      <Filter>소스 파일\Unit 51</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_offset.c">
+      <Filter>소스 파일\Unit 51</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_align.c">
+      <Filter>소스 파일\Unit 51</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_align_offset.c">
+      <Filter>소스 파일\Unit 51</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct_sizeof.c">
+      <Filter>소스 파일\Unit 51</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct_align.c">
+      <Filter>소스 파일\Unit 51</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_sizeof.c">
+      <Filter>소스 파일\Unit 51</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_align.c">
+      <Filter>소스 파일\Unit 51</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_variable_memory_set.c">
+      <Filter>소스 파일\Unit 52</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_pointer_memory_set.c">
+      <Filter>소스 파일\Unit 52</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_variable_memory_copy.c">
+      <Filter>소스 파일\Unit 52</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_pointer_memory_copy.c">
+      <Filter>소스 파일\Unit 52</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct_memory_set.c">
+      <Filter>소스 파일\Unit 52</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct_memory_copy.c">
+      <Filter>소스 파일\Unit 52</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_memory_set.c">
+      <Filter>소스 파일\Unit 52</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_memory_copy.c">
+      <Filter>소스 파일\Unit 52</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
