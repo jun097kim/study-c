@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\Unit 52">
       <UniqueIdentifier>{6e094b55-c4c4-48a5-b73e-dad5c3b4224a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 53">
+      <UniqueIdentifier>{8def7310-3df7-4de3-8772-244aa18c0df0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -410,6 +413,30 @@
     </ClCompile>
     <ClCompile Include="judge_struct_memory_copy.c">
       <Filter>소스 파일\Unit 52</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_array.c">
+      <Filter>소스 파일\Unit 53</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_array_init.c">
+      <Filter>소스 파일\Unit 53</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_pointer_array.c">
+      <Filter>소스 파일\Unit 53</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct_array.c">
+      <Filter>소스 파일\Unit 53</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct_pointer_array.c">
+      <Filter>소스 파일\Unit 53</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_line_length.c">
+      <Filter>소스 파일\Unit 53</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_oldest.c">
+      <Filter>소스 파일\Unit 53</Filter>
+    </ClCompile>
+    <ClCompile Include="size_t.c">
+      <Filter>소스 파일\Unit 53</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
