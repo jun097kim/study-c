@@ -58,6 +58,12 @@
     <Filter Include="소스 파일\Unit 53">
       <UniqueIdentifier>{8def7310-3df7-4de3-8772-244aa18c0df0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 54">
+      <UniqueIdentifier>{028ce44c-c5bc-43e5-85c1-fe802a3de17d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Unit 75">
+      <UniqueIdentifier>{51d20e2e-b982-4e0e-b277-a62cdc79fcdc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -437,6 +443,87 @@
     </ClCompile>
     <ClCompile Include="size_t.c">
       <Filter>소스 파일\Unit 53</Filter>
+    </ClCompile>
+    <ClCompile Include="union.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="union_endian.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="array.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="define_macro.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="undefine_macro.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_function.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_function_multiline.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_function_multiline_if.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef_union.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef_anonymous_union.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="union_variable.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="union_alloc_memory.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef_union_alloc_memory.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_to_union.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_union.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_union_alloc_memory.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_union.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_union_alloc_memory.c">
+      <Filter>소스 파일\Unit 54</Filter>
+    </ClCompile>
+    <ClCompile Include="swap_macro.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_operator_precedence_wrong.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_operator_precedence.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_concatenation.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_concatenation_function_call.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_define_macro.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_init_struct_macro.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_rgb_macro.c">
+      <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_array_size_macro.c">
+      <Filter>소스 파일\Unit 75</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
