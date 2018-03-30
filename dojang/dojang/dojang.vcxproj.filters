@@ -64,6 +64,9 @@
     <Filter Include="소스 파일\Unit 75">
       <UniqueIdentifier>{51d20e2e-b982-4e0e-b277-a62cdc79fcdc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 55">
+      <UniqueIdentifier>{2cf4cc77-1de0-4dc9-add0-eb4e851267d0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -524,6 +527,42 @@
     </ClCompile>
     <ClCompile Include="judge_array_size_macro.c">
       <Filter>소스 파일\Unit 75</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_variable_in_struct.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_variable_in_struct_init.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_variable_in_struct_alloc_memory.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_pointer_in_struct_alloc.memory.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_forward_declaration.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="anonymous_struct_union.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_define_struct_champion.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_declare_struct_champion.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_define_struct_device_option.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_declare_struct_champion.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_alloc_memory_struct_champion.c">
+      <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_define_struct_device_option.c">
+      <Filter>소스 파일\Unit 55</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
