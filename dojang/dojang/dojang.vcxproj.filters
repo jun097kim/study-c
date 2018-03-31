@@ -67,6 +67,9 @@
     <Filter Include="소스 파일\Unit 55">
       <UniqueIdentifier>{2cf4cc77-1de0-4dc9-add0-eb4e851267d0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 56">
+      <UniqueIdentifier>{6c82a4bd-a01f-4073-b848-0c9860766e02}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -563,6 +566,27 @@
     </ClCompile>
     <ClCompile Include="judge_define_struct_device_option.c">
       <Filter>소스 파일\Unit 55</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_bit_field.c">
+      <Filter>소스 파일\Unit 56</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_bit_field_sizeof.c">
+      <Filter>소스 파일\Unit 56</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_union_bit_field.c">
+      <Filter>소스 파일\Unit 56</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct_bit_field.c">
+      <Filter>소스 파일\Unit 56</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_struct_union_bit_field.c">
+      <Filter>소스 파일\Unit 56</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_bit_field.c">
+      <Filter>소스 파일\Unit 56</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_union_bit_field.c">
+      <Filter>소스 파일\Unit 56</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
