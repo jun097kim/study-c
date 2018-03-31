@@ -70,6 +70,9 @@
     <Filter Include="소스 파일\Unit 56">
       <UniqueIdentifier>{6c82a4bd-a01f-4073-b848-0c9860766e02}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 70">
+      <UniqueIdentifier>{f7903ebd-c72f-4f15-859e-8ad50a3b6159}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -587,6 +590,36 @@
     </ClCompile>
     <ClCompile Include="judge_struct_union_bit_field.c">
       <Filter>소스 파일\Unit 56</Filter>
+    </ClCompile>
+    <ClCompile Include="file_write_format.c">
+      <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="file_read_format.c">
+      <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="file_put_string.c">
+      <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="file_wrtie_string.c">
+      <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="file_get_string.c">
+      <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="file_read_string.c">
+      <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_file_write_string.c">
+      <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_file_read_format.c">
+      <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_file_write_format.c">
+      <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_file_read_string.c">
+      <Filter>소스 파일\Unit 70</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
