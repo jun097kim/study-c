@@ -76,6 +76,9 @@
     <Filter Include="소스 파일\Unit 71">
       <UniqueIdentifier>{22a0c1df-ced7-46b9-a084-891a7bcfefc4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 72">
+      <UniqueIdentifier>{d2b6372b-7329-431f-957d-cb1028a15d6c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -656,6 +659,27 @@
     </ClCompile>
     <ClCompile Include="judge_write_file_reverse.c">
       <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="file_write_struct_short.c">
+      <Filter>소스 파일\Unit 72</Filter>
+    </ClCompile>
+    <ClCompile Include="file_write_struct.c">
+      <Filter>소스 파일\Unit 72</Filter>
+    </ClCompile>
+    <ClCompile Include="file_read_struct.c">
+      <Filter>소스 파일\Unit 72</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_file_write_struct.c">
+      <Filter>소스 파일\Unit 72</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_file_read_struct.c">
+      <Filter>소스 파일\Unit 72</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_file_write_struct.c">
+      <Filter>소스 파일\Unit 72</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_file_read_struct.c">
+      <Filter>소스 파일\Unit 72</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
