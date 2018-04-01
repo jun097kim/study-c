@@ -79,6 +79,9 @@
     <Filter Include="소스 파일\Unit 72">
       <UniqueIdentifier>{d2b6372b-7329-431f-957d-cb1028a15d6c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 76">
+      <UniqueIdentifier>{14a42896-abb4-4db2-a663-0083bb7915cb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -681,5 +684,46 @@
     <ClCompile Include="judge_file_read_struct.c">
       <Filter>소스 파일\Unit 72</Filter>
     </ClCompile>
+    <ClCompile Include="conditional_compile.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_compile_expression.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_compile_logical_operator.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_compile_elif_else.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+    <ClCompile Include="conditional_compile_undefined.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+    <ClCompile Include="include.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_conditional_compile.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_include.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_conditional_compile.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_include.c">
+      <Filter>소스 파일\Unit 76</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="message.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="debug.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="platform.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
