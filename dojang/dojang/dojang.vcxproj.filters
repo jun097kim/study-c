@@ -73,6 +73,9 @@
     <Filter Include="소스 파일\Unit 70">
       <UniqueIdentifier>{f7903ebd-c72f-4f15-859e-8ad50a3b6159}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Unit 71">
+      <UniqueIdentifier>{22a0c1df-ced7-46b9-a084-891a7bcfefc4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="address.c">
@@ -620,6 +623,39 @@
     </ClCompile>
     <ClCompile Include="judge_file_read_string.c">
       <Filter>소스 파일\Unit 70</Filter>
+    </ClCompile>
+    <ClCompile Include="file_size.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="read_entire_file.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="read_partial_file.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="write_partial_file.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="read_entire_file_limited_buffer.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_read_entire_file.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_read_partial_file.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_read_entire_file.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_read_partial_file.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_text_file_copy.c">
+      <Filter>소스 파일\Unit 71</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_write_file_reverse.c">
+      <Filter>소스 파일\Unit 71</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
